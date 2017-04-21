@@ -82,7 +82,7 @@
     "should-http": "0.0.4",
     "tape": "^4.6.0",
     "whistle.test": "*",
-    "whistle.more": "^0.0.1",
+    "whistle.more": "*",
     "ws": "^1.1.1"
   }
 }
